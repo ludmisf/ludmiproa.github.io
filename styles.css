@@ -8,13 +8,14 @@ div{
     width: 90%;
 }
 img{
-    height: 90%;
-    width: 35%;
+    height: 100% 
+	width: 90%
     margin-left: 5%;
     margin-right: 5%;
 }
 .texto{s
     width: 100%;
+	background-color:blank
     text-align: center;
 }
 .grupo-fotos {
@@ -23,10 +24,10 @@ img{
 }
 .foto{
     background-color: burlywood(240, 205, 146);
-    width: 50%;
+    width: 30%;
     display: inline-block;
-    margin-left: 1%;
-    margin-right: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 <a href="#" class="myButton">orange</a>
 
