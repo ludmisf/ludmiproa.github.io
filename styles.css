@@ -55,3 +55,9 @@ img{
 	position:relative;
 	top:1px;
 }
+
+.foto{
+	background-color: beige;
+	width: 30%;
+	display: inline-block;
+}
