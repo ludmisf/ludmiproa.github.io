@@ -8,12 +8,11 @@ div{
     width: 90%;
 }
 img{
-    height: 100% 
 	width: 90%
     margin-left: 5%;
     margin-right: 5%;
 }
-.texto{s
+.texto{
     width: 100%;
 	background-color:blank
     text-align: center;
@@ -29,7 +28,7 @@ img{
     margin-left: 5%;
     margin-right: 5%;
 }
-<a href="#" class="myButton">orange</a>
+
 
 .myButton {
 	box-shadow:inset 0px 1px 0px 0px #f9eca0;
@@ -54,10 +53,4 @@ img{
 .myButton:active {
 	position:relative;
 	top:1px;
-}
-
-.foto{
-	background-color: beige;
-	width: 30%;
-	display: inline-block;
 }
