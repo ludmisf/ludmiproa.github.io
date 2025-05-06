@@ -1,4 +1,9 @@
+@font-face{
+	font-family:"fuente linda";
+	src: url(fonds/Tagesschrift-Regular.ttf)
+}
 body{
+	
     background-color: darkslategray;
 }
 h1{
