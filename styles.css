@@ -63,7 +63,7 @@ img{
 	top:1px;
 }
 #listanav{
-	background-color: #776c26;
+	background-color: #023816;
 	list-style: none;
 	border-radius: 5px;
 }
@@ -73,7 +73,7 @@ img{
 	font-size: 20px;
 }
 #listanav a:hover{
-	color: #042712;
+	color: #154227;
 }
 #listanav li{
 	display: inline-block;
