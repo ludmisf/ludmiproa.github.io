@@ -3,8 +3,10 @@
 	src: url(fonds/Tagesschrift-Regular.ttf)
 }
 body{
-	
-    background-color: darkslategray;
+	 background-color: darkslategray;
+	 font-family: "fuente linda";
+	 font-size:xx-large;
+
 }
 h1{
     color: #2e0202(58, 18, 18)
