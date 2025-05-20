@@ -79,3 +79,9 @@ img{
 	display: inline-block;
 	padding: 5px;
 }
+
+table{
+	background-color: #154227;
+	border: #023816;
+	border-style: double;
+}
