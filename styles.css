@@ -83,6 +83,7 @@ img{
 .table1 th{
 	background-color: #f0a441;
 	border: #462903;
+	border-radius: 5% ;
 	border-style: double;
 }
 .table1 td{
