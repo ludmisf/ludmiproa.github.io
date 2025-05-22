@@ -80,12 +80,22 @@ img{
 	padding: 5px;
 }
 
-table{
+.table1 th{
 	background-color: #f0a441;
 	border: #462903;
 	border-style: double;
 }
-table2{
+.table1 td{
+	background-color: #f0a441;
+	border: #462903;
+	border-style: double;
+}
+.table2 th{
+	background-color: #5a0505;
+	border: #811f1f;
+	border-style: double;
+}
+.table2 td{
 	background-color: #5a0505;
 	border: #811f1f;
 	border-style: double;
