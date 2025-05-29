@@ -11,6 +11,8 @@ body{
 h1{
     color: #2e0202(58, 18, 18)
 }
+p{ style="color:MediumSeaGreen;"> bariloche<
+}
 div{
     width: 90%;
 }
@@ -25,6 +27,7 @@ img{
     width: 100%;
 	background-color:blank;
     text-align: center;
+	
 }
 .grupo-fotos {
 	width: 100%;
