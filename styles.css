@@ -31,6 +31,8 @@ img{
 .grupo-fotos {
 	width: 100%;
 	background-color: darkolivegreen;
+	display: flex;
+    flex-direction: row;
 }
 .foto{
     background-color: burlywood(240, 205, 146);
@@ -43,7 +45,7 @@ img{
 
 
 .myButton {
-	box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	box-shadow:inset 0px 1px 0px 0px #055813;
 	background:linear-gradient(to bottom, #790a19 5%, #3a0202 100%);
 	background-color:#63141496;
 	border-radius:6px;
@@ -56,7 +58,7 @@ img{
 	font-weight:bold;
 	padding:6px 24px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #ded17c;
+	text-shadow:0px 1px 0px #024708;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #790707 5%, #4b0707 100%);
