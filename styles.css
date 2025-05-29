@@ -11,8 +11,7 @@ body{
 h1{
     color: #2e0202(58, 18, 18)
 }
-p{ style="color:MediumSeaGreen;"> bariloche<
-}
+
 div{
     width: 90%;
 }
@@ -45,8 +44,8 @@ img{
 
 .myButton {
 	box-shadow:inset 0px 1px 0px 0px #f9eca0;
-	background:linear-gradient(to bottom, #f0c911 5%, #f2ab1e 100%);
-	background-color:#f0c911;
+	background:linear-gradient(to bottom, #790a19 5%, #3a0202 100%);
+	background-color:#63141496;
 	border-radius:6px;
 	border:1px solid #e65f44;
 	display:inline-block;
@@ -60,8 +59,8 @@ img{
 	text-shadow:0px 1px 0px #ded17c;
 }
 .myButton:hover {
-	background:linear-gradient(to bottom, #f2ab1e 5%, #f0c911 100%);
-	background-color:#f2ab1e;
+	background:linear-gradient(to bottom, #790707 5%, #4b0707 100%);
+	background-color:#530505;
 }
 .myButton:active {
 	position:relative;
