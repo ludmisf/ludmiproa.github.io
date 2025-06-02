@@ -15,9 +15,17 @@ h1{
 div{
     width: 90%;
 }
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
 img{
-	height: 50;
-	width: 90%;
+	width: 50%;
     margin-left: 5%;
     margin-right: 5%;
 	border-radius: 8px;
@@ -29,15 +37,27 @@ img{
 	
 }
 .grupo-fotos {
-	width: 100%;
-	background-color: darkolivegreen;
+	width: 50%;
+	background-color: rgb(51, 78, 3);
 	display: flex;
     flex-direction: row;
+	display: flex;
+    flex-wrap: nowrap;
+}
+.ciudades {
+	
+	background-color: darkolivegreen;
+	display: flex;
+    flex-direction:column;
+    flex-wrap: nowrap;
+}
+.foto1{
+	display:flex;
+	flex-direction: row;
 }
 .foto{
     background-color: burlywood(240, 205, 146);
-    width: 20%;
-    display: inline-block;
+     display: inline-block;
     margin-left: 2%;
     margin-right: 2%;
 	border-radius: 8px;
@@ -45,20 +65,20 @@ img{
 
 
 .myButton {
-	box-shadow:inset 0px 1px 0px 0px #055813;
+	box-shadow:inset 0px 1px 0px 0px #2c0101;
 	background:linear-gradient(to bottom, #790a19 5%, #3a0202 100%);
 	background-color:#63141496;
 	border-radius:6px;
-	border:1px solid #e65f44;
+	border:1px solid #5a1010;
 	display:inline-block;
 	cursor:pointer;
-	color:#c92200;
+	color:#dd7a7a;
 	font-family:Arial;
 	font-size:15px;
 	font-weight:bold;
 	padding:6px 24px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #024708;
+	text-shadow:0px 1px 0px #410303;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #790707 5%, #4b0707 100%);
