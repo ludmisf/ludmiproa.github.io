@@ -1,9 +1,9 @@
 @font-face{
 	font-family:"fuente linda";
-	src: url(fonds/Tagesschrift-Regular.ttf)
+	src: url(fonts/Edu_SA_Hand.zip);
 }
 body{
-	 background-color: darkslategray;
+	 background-color: rgba(121, 26, 26, 0.719);
 	 font-family: "fuente linda";
 	 font-size:xx-large;
 
@@ -37,21 +37,22 @@ img{
 	
 }
 .grupo-fotos {
-	width: 50%;
-	background-color: rgb(51, 78, 3);
+	width: 90%;
+	background-color: burlywood(216, 218, 120);
 	display: flex;
     flex-direction: row;
 	display: flex;
     flex-wrap: nowrap;
 }
 .ciudades {
-	
-	background-color: darkolivegreen;
+	background-color:  #4b0707(247, 235, 127);
 	display: flex;
     flex-direction:column;
     flex-wrap: nowrap;
 }
 .foto1{
+	  background-color: burlywood(240, 205, 146);
+     display: inline-block;
 	display:flex;
 	flex-direction: row;
 }
@@ -89,17 +90,17 @@ img{
 	top:1px;
 }
 #listanav{
-	background-color: #023816;
+	background-color: #4b0707;
 	list-style: none;
 	border-radius: 5px;
 }
 #listanav a{
 	text-decoration: none;
-	color: darkolivegreen;
+	color: rgb(241, 247, 161);
 	font-size: 20px;
 }
 #listanav a:hover{
-	color: #154227;
+	color:  #4b0707;
 }
 #listanav li{
 	display: inline-block;
